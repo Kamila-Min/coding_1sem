@@ -1,3 +1,2 @@
 # Square equation
 
-test
